@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695028234 source:c:\users\youcode\desktop\test\tableau 10 colone\main.c
+	<stdio.h>
+	<stdlib.h>
+
