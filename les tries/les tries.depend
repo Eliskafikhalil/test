@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695048570 source:c:\users\youcode\desktop\test\les tries\main.c
+	<stdio.h>
+	<stdlib.h>
+
